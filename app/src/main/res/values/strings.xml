@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SelectionCalc</string>
+    <string name="upper">Выборка объёма \'к\'</string>
+    <string name="cs">Число сочетаний</string>
+    <string name="csp">Число сочетаний с повторениями</string>
+    <string name="cr">Число размещений</string>
+    <string name="crp">Число размещений с повторениями</string>
+    <string name="cs_f">n! / k! * ( n - k )!</string>
+    <string name="csp_f">(n + k - 1)! / k! * (n - 1)!</string>
+    <string name="cr_f">n! / ( n - k )!</string>
+    <string name="crp_f">n ^ k</string>
+    <string name="text_cs">По смыслу выборки перестановка не изменит результат (нет одинаковых элементов в выборке)</string>
+    <string name="text_cr">Поряок выбранных элементов зафиксирован (нет одинаковых элементов в выборке)</string>
+    <string name="text_crp">Поряок выбранных элементов зафиксирован (в выборке есть одинаковые элементы)</string>
+    <string name="text_csp">По смыслу выборки перестановка не изменит результат (в выборке есть одинаковые элементы)</string>
+    <string name="info">Программа позволяет расчитать разные типы выборки объёма \'к\' в n элементах</string>
+</resources>
